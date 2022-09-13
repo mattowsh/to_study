@@ -12,8 +12,9 @@
 - **Sets**
 - **Dictionary** (o *dicts*)
 
-[x] Son **one-dimensional data structures**: podemos guardar toda nuestra data en una sola linea o columna
-[x] Son **heterogeneas**: permiten almacenar data de diferente tipo (ej. int data type, float data type, range data type)
+Son **one-dimensional data structures**: podemos guardar toda nuestra data en una sola linea o columna
+
+Son **heterogeneas**: permiten almacenar data de diferente tipo (ej. int data type, float data type, range data type)
 
 ## 00. LISTS
 ## 01. TUPLES
