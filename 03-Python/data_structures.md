@@ -6,13 +6,13 @@
 - Existen diversos tipos, cada uno con eficiencias diferentes: se destacan las **inbuilt**
 
 ## Inbuilt data structures
-No tienen otras dependencias más que las del propio core de Python: no es necesario el uso de librerias externas
+**No tienen otras dependencias** más que las del propio core de Python: no es necesario el uso de librerias externas
 - **Lists**
 - **Tuples**
 - **Sets**
 - **Dictionary** (o *dicts*)
 
-Son ***one-dimensional data structures**: podemos guardar toda nuestra data en una sola linea o columna
+Son **one-dimensional data structures**: podemos guardar toda nuestra data en una sola linea o columna
 Son **heterogeneas**: permiten almacenar data de diferente tipo (ej. int data type, float data type, range data type)
 
 ## 00. LISTS
