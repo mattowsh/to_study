@@ -2,7 +2,7 @@
 
 ## Data structures
 - Maneras de ordenar y almacenar data/información
-- Permiten un acceso eficiente a dicha data
+- Permiten un acceso eficiente a la data almacenada
 - Existen diversos tipos, cada uno con eficiencias diferentes: se destacan las **inbuilt**
 
 ## Inbuilt data structures
