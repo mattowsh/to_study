@@ -32,7 +32,7 @@ Muy utilizados para cálculos matemáticos usando **operadores o métodos**:
 
 <!--- https://www.programiz.com/python-programming/set -->
 
-- ## DICTS: my_dict = {}
+## DICTS: my_dict = {}
 Cada elemento tiene una **key asociada**: pares (key:value)
 
 Tipo de datos almacenados:
