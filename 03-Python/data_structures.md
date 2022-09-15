@@ -47,3 +47,5 @@ Tipo de datos almacenados:
     
 <!--- https://www.programiz.com/python-programming/dictionary -->
 
+<!--- https://docs.python.org/3/tutorial/datastructures.html -->
+
