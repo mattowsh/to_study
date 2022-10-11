@@ -3,16 +3,22 @@
 ## Error vs. exceptions
 **Errors**: problemas que surgen durante la ejecución de un programa que obligan a su detención
 
-	### Tipos de errores
-	- Syntax errores: falta de paréntesis, llamada incorrecta de variables, etc.
-	- Logical errors = **Exceptions**
+### Tipos de errores
+- Syntax errores: falta de paréntesis, llamada incorrecta de variables, etc.
+- Logical errors = **Exceptions**
 
-**Exceptions**: se dan cuando, en un programa siendo ejecutado, ocurren eventos internos que cambian el flujo     normal del programa. Son aquellos que **pasan las pruebas de sintaxis**
+**Exceptions**: se dan cuando, en un programa siendo ejecutado, ocurren eventos internos que cambian el flujo normal del programa. Son aquellos que **pasan las pruebas de sintaxis**
 
 ## Logical errors = Exceptions
-`ZeroDivisionError`: aparece cuando trato de dividir cualquier número entre 0
-`IdentationError`: aparece cuando existe una incorrecta identación
+`ZeroDivisionError` : aparece cuando trato de dividir cualquier número entre 0
 
+`IdentationError` : aparece cuando existe una incorrecta identación
+
+<div align="center">
+	
+<img width="303" alt="exceptions" src="https://user-images.githubusercontent.com/103126719/190436613-39685654-894e-48e3-b717-aafd1f9b904d.png">
+	
+</div>
 
 Python Built-in exceptions: https://docs.python.org/3/library/exceptions.html#bltin-exceptions
 
@@ -24,6 +30,6 @@ Python Built-in exceptions: https://docs.python.org/3/library/exceptions.html#bl
 - `finally` bloque de código que se va a ejecutar haya o no ocurrido un error en `try:`, siempre será ejecutado
 
 ### Otros
-- `raise` : permite que una exception se de a la fuerza, se usa en conjunto con el método Try/Except/Finallyétodo Try/Except/Finally
+- `raise` : permite que una exception se de a la fuerza, se usa en conjunto con el método Try/Except/Finally
 
 <!--- **bold // *italic // ``simil-code -->
